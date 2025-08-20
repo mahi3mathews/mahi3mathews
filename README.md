@@ -2,10 +2,9 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+Ecosystem+Expert;4%2B+Years+Experience;Turning+Ideas+Into+Reality)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;4+Years+Experience;Turning+Ideas+Into+Reality)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahima-mathews)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mahima-mathews.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahi3.mathews@gmail.com)
 
@@ -28,7 +27,7 @@ const mahima = {
 
 ## 💼 Professional Highlights
 
-🎯 **Frontend Performance Specialist** - Improved loading times and reduced memory usage  
+🎯 **Full-Stack Developer** - Improved loading times and reduced memory usage  
 🏗️ **Architecture Expert** - Built scalable MVC solutions with optimised tech stacks  
 📱 **Cross-Platform Developer** - React Native apps with faster data retrieval  
 🔧 **Code Quality Advocate** - Reduced code complexity through systematic refactoring  
