@@ -4,9 +4,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+Ecosystem+Expert;4%2B+Years+Experience;Turning+Ideas+Into+Reality)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahima-mathews)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mahima-mathews.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahi3.mathews@gmail.com)
 
 </div>
@@ -28,10 +28,10 @@ const mahima = {
 
 ## 💼 Professional Highlights
 
-🎯 **Frontend Performance Specialist** - Improved loading times by 15% and reduced memory usage by 8%  
-🏗️ **Architecture Expert** - Built scalable MVC solutions with optimized tech stacks  
-📱 **Cross-Platform Developer** - React Native apps with 35% faster data retrieval  
-🔧 **Code Quality Advocate** - Reduced code complexity by 20% through systematic refactoring  
+🎯 **Frontend Performance Specialist** - Improved loading times and reduced memory usage  
+🏗️ **Architecture Expert** - Built scalable MVC solutions with optimised tech stacks  
+📱 **Cross-Platform Developer** - React Native apps with faster data retrieval  
+🔧 **Code Quality Advocate** - Reduced code complexity through systematic refactoring  
 🎨 **Design-to-Code Specialist** - Pixel-perfect implementations from Figma designs  
 
 ## 🛠️ Tech Arsenal
@@ -65,60 +65,14 @@ const mahima = {
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🏆 Featured Projects
-
-### 🌿 EU CBAM Compliance Calculator
-**Tech Stack:** React.js, Express.js, MongoDB, Firebase Auth, Recharts
-- Built comprehensive carbon emissions calculator for EU compliance
-- Architected scalable MVC solution with optimized performance
-- Created interactive data visualizations with Recharts
-- **Impact:** Streamlined compliance process for multiple stakeholders
-
-### 📱 Cross-Platform Mobile App (CubeQ Analytica)
-**Tech Stack:** React Native, Third-party APIs
-- Led end-to-end development with cross-platform compatibility
-- Optimized API integrations reducing data retrieval by 35%
-- Successfully deployed to Google Play Store
-- **Impact:** 50% faster feature development through modular architecture
-
-### 🏢 Enterprise UI Component System (Infrrd)
-**Tech Stack:** React.js, Jest, React Testing Library
-- Delivered 15+ reusable UI components
-- Implemented comprehensive testing workflows
-- Integrated Google Analytics for data-driven insights
-- **Impact:** Consistent design system across enterprise applications
-
-## 🎓 Education & Certifications
-
-🎓 **Master of Science in Software Development** - Coventry University (2023)  
-🎓 **Bachelor of Technology in Computer Science** - FISAT, Kerala (2019)
-
-📜 **Recent Certifications:**
-- Micro Front-End Architecture with React (LinkedIn)
-- TypeScript: Object-Oriented Programming (LinkedIn)
-- Career Essentials in Software Development (Microsoft & LinkedIn)
-- Next.js & React - The Complete Guide (Udemy)
-
 ## 🌟 What Makes Me Different
 
 ```yaml
 Unique_Strengths:
   - Product_Led_Development: "I don't just code, I build products that solve real problems"
-  - Performance_Obsessed: "15% faster loading times, 8% reduced memory usage"
+  - Performance_Obsessed: "Faster loading times, reduced memory usage"
   - Design_To_Code_Expert: "Pixel-perfect implementations from Figma designs"
   - Cross_Functional_Collaboration: "Seamless work with designers and product teams"
-  - Accessibility_Advocate: "Building inclusive web experiences (a11y)"
 ```
 
 ## 🎯 Currently Exploring
